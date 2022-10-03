@@ -8,16 +8,16 @@
 ![3](https://github.com/renat2006/Resume/blob/main/3.jpg)
 
 Навыки
-![4](https://github.com/renat2006/Resume/blob/main/4.jpg)
+![4](https://github.com/renat2006/Resume/blob/main/3.jpg)
 
 Резюме
-![5](https://github.com/renat2006/Resume/blob/main/5.jpg)
+![5](https://github.com/renat2006/Resume/blob/main/4.jpg)
 
 Портфолио
-![6](https://github.com/renat2006/Resume/blob/main/6.jpg)
+![6](https://github.com/renat2006/Resume/blob/main/5.jpg)
 
 Преимущества
-![7](https://github.com/renat2006/Resume/blob/main/7.jpg)
+![7](https://github.com/renat2006/Resume/blob/main/6.jpg)
 
 
 О проекте
