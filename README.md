@@ -40,7 +40,7 @@
 - - - glightbox
 - - - isotope
 - - - aos
- - Вспомогательные
+- - Вспомогательные:
 - - typed
 - - waypoints
 
