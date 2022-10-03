@@ -1,13 +1,11 @@
 # Резюме
 ![1](https://github.com/renat2006/Resume/blob/main/1.jpg)
 
-О нас
-![2](https://user-images.githubusercontent.com/92933233/166927289-e39aca94-6e05-4c73-9a49-329be7b7d33e.png)
+Обо мне
+![2](https://github.com/renat2006/Resume/blob/main/2.jpg)
 
-Ассортимент
-Картинки
-Десерты
-![3](https://user-images.githubusercontent.com/92933233/166927323-ce7c0681-8b83-4c19-8319-2c6532a83db4.png)
+Факты обо мне
+![3](https://github.com/renat2006/Resume/blob/main/3.jpg)
 
 О проекте
 
