@@ -35,14 +35,14 @@
 - Основа сайта js, css, html.
 
 - Библиотеки:
- - Основа - bootstrap
- - Оформление:
-  - glightbox
-  - isotope
-  - aos
+- - Основа - bootstrap
+- - Оформление:
+- - - glightbox
+- - - isotope
+- - - aos
  - Вспомогательные
-  - typed
-  - waypoints
+- - typed
+- - waypoints
 
 
 
